@@ -5,8 +5,8 @@ import "react-modal-video/css/modal-video.css";
 import RootLayoutClient from "./root-layout-client";
 
 export const metadata = {
-  title: "iori - Multipurpose Startup SaaS NextJS Template",
-  description: "iori - Multipurpose Startup SaaS NextJS Template",
+  title: "Get Affordable eCommerce web development services in Delhi NCR",
+  description: "Website Development Company in Delhi. Muniwar Is a Team of 15+ Experts Developers, Get Ecommerce Responsive Website, We Comes in Best Website Designing Company.",
 };
 
 export default function RootLayout({ children }) {
